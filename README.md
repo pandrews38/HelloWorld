@@ -1,4 +1,3 @@
-![headshot](Paulie .jpg)
 # HELLOWORLD
 Hi Everyone my name is Paul Andrews and i am new hire for Github, This README with give you abit of information about me
  
